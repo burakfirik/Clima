@@ -1,4 +1,4 @@
-Dicee App dice rolling app
+Weather App
 
 Burak Firik
 
